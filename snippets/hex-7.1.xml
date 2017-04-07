@@ -43,7 +43,7 @@
 
   <project path="device/qcom/sepolicy" name="HexagonRom/android_device_qcom_sepolicy" remote="hexagon" />
 
-  <project path="vendor/hexagon" name="HexagonRom/android_vendor_hexagon" remote="hexagon" />
+  <project path="vendor/hexagon" name="TheComputerGuy96/android_vendor_hexagon" remote="hexagon" />
   <project path="vendor/codeaurora/telephony" name="HexagonRom/vendor_codeaurora_telephony" remote="hexagon"/>
 <!-- END HEXAGON -->
 
