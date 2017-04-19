@@ -494,5 +494,6 @@
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />roups="notdefault,tradefed" remote="aosp" />
 
   <include name="snippets/hex-7.1.xml" />
+  <include name="snippets/kyleprods.xml" />
 
 </manifest>
