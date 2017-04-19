@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- KYLEPRODS -->
+  <project path="device/samsung/kyleprods" name="KYLEPROXX-DEVS/android_device_samsung_kyleprods" remote="github" revision="hex-7.1" />
+  <project path="kernel/samsung/kyleproxx" name="ishantvivek/android_kernel_samsung_kyleproxx" remote="github" revision="cm-14.1" />
+  <project path="vendor/samsung/kyleproxx" name="Tishantvivek/android_vendor_samsung_kyleproxx" clone-depth="1" remote="github" revision="7.0" />
+  <!-- KYLEPRODS dependencies -->
+  <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
+  <project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1" />
+</manifest>
